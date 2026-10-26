@@ -1,0 +1,33 @@
+
+#header {
+    background-color: #fe3867;
+    color: white;
+    padding: 9px;
+    text-align: center;
+}
+
+/* div menu */
+
+#menu {
+    float: left;
+    width: 20%;
+    height: auto;
+    background-color: #ffffff;
+}
+
+#main {
+    margin-left: 20%;
+    height: auto;
+    padding: 20px;
+}
+
+#main h2 {
+    color: #fe3867;
+}
+
+#footer {
+    background-color: #fe3867;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
